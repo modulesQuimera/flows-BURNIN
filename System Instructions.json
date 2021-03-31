@@ -1,0 +1,1 @@
+[{"id":"a7c3207e.3852f","type":"subflow","name":"System Instructions","info":"","category":"","in":[{"x":40,"y":40,"wires":[]}],"out":[{"x":760,"y":40,"wires":[{"id":"a7c3207e.3852f","port":0}]}],"env":[],"color":"#FF4800","icon":"node-red/status.svg"},{"id":"b3e22ad2.bdf418","type":"subflow:a7c3207e.3852f","z":"74528846.f165c8","name":"","env":[],"x":530,"y":120,"wires":[[]]}]
